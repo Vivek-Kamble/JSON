@@ -1,0 +1,20 @@
+{
+    "employee":{
+        "name":"Arun",
+        "age":35,
+        "address":"Nerul",
+        "hobbies":[
+            {
+                "name":"cricket",
+                "level":"Expert"
+            },
+            {
+                "name":"Chess",
+                "level":"Beginner"
+            }
+        ],
+        "salary":34566,
+        "manager":false,
+        "department":null
+    }    
+}

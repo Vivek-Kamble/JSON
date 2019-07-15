@@ -1,0 +1,20 @@
+{
+    "shoppingcart":{
+                        "product":[{
+                            "name":"one+6t",
+                            "price":40000,
+                            "category":"Mobiles"
+                        },
+                        {
+                            "name":"samsung A50",
+                            "price":20000,
+                            "category":"Mobiles"
+                        },
+                        {
+                            "name":"sony LED",
+                            "price":55000,
+                            "category":"Television"
+                        }
+                    ]
+                 }
+}
